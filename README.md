@@ -44,6 +44,11 @@ Python 3.xでFlaskを使う最小のサンプルコード
 
 (TODO)
 
+Debian/Ubuntuなら
+```sh
+sudo apt install uwsgi python3-flask
+```
+
 
 # 注意
 
