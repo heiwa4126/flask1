@@ -6,7 +6,7 @@ Python 3.xでFlaskを使う最小のサンプルコード
 ```sh
 ./start_flask.sh
 ```
-で開始
+で開始(デバッグモード&オートリロード)
 
 ```sh
 ./test_flask.sh
@@ -20,6 +20,10 @@ Python 3.xでFlaskを使う最小のサンプルコード
   "type": "message"
 }
 ```
+
+オートリロードなので`run.py`を編集すると再読込してくれる
+(モジュールに関しては不明)
+
 
 ```sh
 ./stop_flask.sh
