@@ -8,6 +8,7 @@ Python 3.xでFlaskを使う最小のサンプルコード
 - [Flaskのインストール](#flaskのインストール)
 - [注意](#注意)
 - [参考](#参考)
+- [TODO](#todo)
 
 
 # 使い方
@@ -63,3 +64,10 @@ sudo apt install uwsgi python3-flask
 - [Welcome to Flask — Flask Documentation](https://flask.palletsprojects.com/)
 - [Jinja — Jinja Documentation](https://jinja.palletsprojects.com/)
 - [Werkzeug — Werkzeug Documentation](https://werkzeug.palletsprojects.com/)
+
+
+# TODO
+
+もうちょっと
+[Project Layout — Flask Documentation (1.1.x)](https://flask.palletsprojects.com/en/1.1.x/tutorial/layout/)
+に従ったディレクトリレイアウトにする、かもしれない。
