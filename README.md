@@ -3,6 +3,15 @@
 Python 3.xでFlaskを使う最小のサンプルコード
 (兼テンプレート)
 
+- [flask1](#flask1)
+- [使い方](#使い方)
+- [Flaskのインストール](#flaskのインストール)
+- [注意](#注意)
+- [参考](#参考)
+
+
+# 使い方
+
 ```sh
 ./start_flask.sh
 ```
@@ -41,3 +50,9 @@ Python 3.xでFlaskを使う最小のサンプルコード
 - [Flaskのデフォルトでは同時アクセスを処理できない - Qiita](https://qiita.com/5zm/items/251be97d2800bf67b1c6)
 
 まあ本番ならuWSGI使うだろうと思いますが。
+
+# 参考
+
+- [Welcome to Flask — Flask Documentation (1.1.x)](https://flask.palletsprojects.com/en/1.1.x/)
+- [Werkzeug — Werkzeug Documentation (1.0.x)](https://werkzeug.palletsprojects.com/en/1.0.x/)
+- [Werkzeug — Werkzeug Documentation (1.0.x)](https://werkzeug.palletsprojects.com/en/1.0.x/)
