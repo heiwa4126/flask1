@@ -47,12 +47,14 @@ Python 3.xでFlaskを使う最小のサンプルコード
 
 # 注意
 
+この設定のまま本番で使わないこと。
+
 - [Flaskのデフォルトでは同時アクセスを処理できない - Qiita](https://qiita.com/5zm/items/251be97d2800bf67b1c6)
 
 まあ本番ならuWSGI使うだろうと思いますが。
 
 # 参考
 
-- [Welcome to Flask — Flask Documentation (1.1.x)](https://flask.palletsprojects.com/en/1.1.x/)
-- [Werkzeug — Werkzeug Documentation (1.0.x)](https://werkzeug.palletsprojects.com/en/1.0.x/)
-- [Werkzeug — Werkzeug Documentation (1.0.x)](https://werkzeug.palletsprojects.com/en/1.0.x/)
+- [Welcome to Flask — Flask Documentation](https://flask.palletsprojects.com/)
+- [Jinja — Jinja Documentation](https://jinja.palletsprojects.com/)
+- [Werkzeug — Werkzeug Documentation](https://werkzeug.palletsprojects.com/)
